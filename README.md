@@ -10,9 +10,9 @@ output: mapname.obj # obj mesh of the map (3d model)
 also needed: The necessary textures (already converted into .png) must be extracted somewhere (see oltex.rar). 
 
 The following variables:
-  mapname
-  map_path
-  textures_path
+    mapname
+    map_path
+    textures_path
 must be changed so the script can find your map and textures.
 
 The resulting .obj file can be viewed with any 3d software, for example Blender (freeware) and can be imported into any game engine (Unity, Unreal, Godot, etc)
